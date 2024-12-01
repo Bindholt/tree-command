@@ -16,7 +16,9 @@ A simple command-line utility that displays the hierarchical structure of a dire
 
 # Usage
 To display the tree structure of a directory use the following command:
+
     ```bash
     npm start ./
     ```
+    
 Replace ./ with the path to the directory you want to scan.
